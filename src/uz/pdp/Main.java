@@ -1,8 +1,5 @@
 package uz.pdp;
 
-import java.util.Locale;
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
         System.out.println();
@@ -34,5 +31,7 @@ public class Main {
         double num1 = 35;
         double num2 = 23.34;
         System.out.printf("%f %f", num1, num2);
+
+        ///Muzaffar
     }
 }
